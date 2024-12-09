@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-ExtraBold.eot');
+    src: url('../font/Outfit-ExtraBold.eot?') format('embedded-opentype'),
+        url('../font/Outfit-ExtraBold.woff2') format('woff2'),
+        url('../font/Outfit-ExtraBold.woff') format('woff'),
+        url('../font/Outfit-ExtraBold.ttf') format('truetype'),
+        url('../font/Outfit-ExtraBold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-Bold.eot');
+    src: url('../font/Outfit-Bold.eot?') format('embedded-opentype'),
+        url('../font/Outfit-Bold.woff2') format('woff2'),
+        url('../font/Outfit-Bold.woff') format('woff'),
+        url('../font/Outfit-Bold.ttf') format('truetype'),
+        url('../font/Outfit-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-Black.eot');
+    src: url('../font/Outfit-Black.eot?') format('embedded-opentype'),
+        url('../font/Outfit-Black.woff2') format('woff2'),
+        url('../font/Outfit-Black.woff') format('woff'),
+        url('../font/Outfit-Black.ttf') format('truetype'),
+        url('../font/Outfit-Black.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-Thin.eot');
+    src: url('../font/Outfit-Thin.eot?') format('embedded-opentype'),
+        url('../font/Outfit-Thin.woff2') format('woff2'),
+        url('../font/Outfit-Thin.woff') format('woff'),
+        url('../font/Outfit-Thin.ttf') format('truetype'),
+        url('../font/Outfit-Thin.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-ExtraLight.eot');
+    src: url('../font/Outfit-ExtraLight.eot?') format('embedded-opentype'),
+        url('../font/Outfit-ExtraLight.woff2') format('woff2'),
+        url('../font/Outfit-ExtraLight.woff') format('woff'),
+        url('../font/Outfit-ExtraLight.ttf') format('truetype'),
+        url('../font/Outfit-ExtraLight.svg') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-Regular.eot');
+    src: url('../font/Outfit-Regular.eot?') format('embedded-opentype'),
+        url('../font/Outfit-Regular.woff2') format('woff2'),
+        url('../font/Outfit-Regular.woff') format('woff'),
+        url('../font/Outfit-Regular.ttf') format('truetype'),
+        url('../font/Outfit-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-SemiBold.eot');
+    src: url('../font/Outfit-SemiBold.eot?') format('embedded-opentype'),
+        url('../font/Outfit-SemiBold.woff2') format('woff2'),
+        url('../font/Outfit-SemiBold.woff') format('woff'),
+        url('../font/Outfit-SemiBold.ttf') format('truetype'),
+        url('../font/Outfit-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-Medium.eot');
+    src: url('../font/Outfit-Medium.eot?') format('embedded-opentype'),
+        url('../font/Outfit-Medium.woff2') format('woff2'),
+        url('../font/Outfit-Medium.woff') format('woff'),
+        url('../font/Outfit-Medium.ttf') format('truetype'),
+        url('../font/Outfit-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../font/Outfit-Light.eot');
+    src: url('../font/Outfit-Light.eot?') format('embedded-opentype'),
+        url('../font/Outfit-Light.woff2') format('woff2'),
+        url('../font/Outfit-Light.woff') format('woff'),
+        url('../font/Outfit-Light.ttf') format('truetype'),
+        url('../font/Outfit-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
